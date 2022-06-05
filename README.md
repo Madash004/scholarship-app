@@ -5,7 +5,7 @@ A complete scholarship management system seperate with admin, organization and s
 
 Android Apk
 
-<a href="https://github.com/jayaanandabalaji/scholarship-management-system-flutter/blob/main/apk/app-release.apk?raw=true"><img src="https://www.yt3dl.net/images/apk-download-badge.png" style="height:100px;"></a>
+<a href="https://github.com/madash004/scholarship-management-system-flutter/blob/main/apk/app-release.apk?raw=true"><img src="https://www.yt3dl.net/images/apk-download-badge.png" style="height:100px;"></a>
 ## 📸 Screenshots
 
 <img src="https://raw.githubusercontent.com/jayaanandabalaji/scholarship-management-system-flutter/main/screenshots/flutter%20scholarship%20screenshot%201.png" width="250" >
@@ -44,19 +44,4 @@ Android Apk
 - Add scholarship with image, title, rich text description and last date and time picker
 - user profile picture with firebase storage
 - login, register, user, scholarship and applicants with firebase firestore
-- Rich UI dashboard
-## Hire me
-**Want to hire me on your upcoming or ongoing flutter project? 
-Contact me on Fiverr**
-
-[![fiverr](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white
-)](https://www.fiverr.com/balajikannan03)
-
-
-
-## License
-
-Feel free to use the scipt for your project
-
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
